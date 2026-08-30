@@ -14,7 +14,7 @@ Swift / SwiftUI (iOS 17+, iPadOS 17+, macOS 14+)
 
 ## Link naar filmpje
 
-*Toevoegen vóór indienen.*
+[iPhone screen recording](https://share.icloud.com/photos/0a1iiMsLWgP9dJvDTMua8J0vw)
 
 ## Github link en branch
 
