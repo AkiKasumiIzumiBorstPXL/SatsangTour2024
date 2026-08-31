@@ -13,8 +13,9 @@ Satsang Tour 2024
 Swift / SwiftUI (iOS 17+, iPadOS 17+, macOS 14+)
 
 ## Link naar filmpje
-
-[iPhone screen recording](https://share.icloud.com/photos/0a1iiMsLWgP9dJvDTMua8J0vw](https://share.icloud.com/photos/0812VkZIKdXqtT-GzcxB3eosA)
+[iPhone](https://share.icloud.com/photos/0e5MGA3X5goQHdblHj1-V-TGw)
+[iPad](https://share.icloud.com/photos/0ccfLws55xy2Fjad2-1vkqGhw)
+[Mac](https://share.icloud.com/photos/051f3a3rZrziV4DKroNZlbj8g)
 
 ## Github link en branch
 
